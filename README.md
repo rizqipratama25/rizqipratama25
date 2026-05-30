@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rizqi Pratama👋<br><br>I am a Software Engineering Student at SMK Negeri 2 Mojokerto.
+Hi, I'm Rizqi Pratama👋<br><br>Fresh Graduate Software Engineer building modern fullstack web applications with React, TypeScript, Laravel, and PostgreSQL
 
 
 ## 🌐 Socials:
